@@ -1,0 +1,9 @@
+# (uncomment to add a dependency)
+dependencies:
+  - name: funnel
+    version: 0.0.1
+    src: htmlwidgets/lib
+    script:
+      - funnel.js
+#    stylesheet:
+
