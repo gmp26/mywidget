@@ -15,7 +15,7 @@ HTMLWidgets.widget({
         // TODO: code to render the widget, e.g.
         //el.innerText = x.message
         console.log(window);
-        window.mountComponent(el);
+        window.exportedComponent(el);
         console.log("mywidget.renderValue called: ")
 
       },
