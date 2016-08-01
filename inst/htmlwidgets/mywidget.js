@@ -16,7 +16,7 @@ HTMLWidgets.widget({
         //el.innerText = x.message
         console.log(window);
         exportedComponent(el);
-        console.log("mywidget.renderValue called: ")
+        console.log("mywidget.renderValue called: ");
 
       },
 
